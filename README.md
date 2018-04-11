@@ -10,6 +10,11 @@ Download the following shell script on your Ubuntu server or clone it with the f
 ```
 git clone https://github.com/redjohnzarra/autoscript-ubuntu-reactsetup.git
 ```
+Go to the cloned directory
+------------------------------
+```
+cd autoscript-ubuntu-reactsetup
+```
 Allow script to be executed.
 ------------------------------
 ```
